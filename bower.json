@@ -1,0 +1,22 @@
+{
+  "name": "flexplorer_layout",
+  "description": "Learning flex",
+  "main": "index.html",
+  "authors": [
+    "shadowkimi520"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/shadowkimi520/flexplorer",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "modernizr": "~3.3.0"
+  }
+}
